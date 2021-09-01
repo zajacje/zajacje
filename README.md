@@ -7,13 +7,17 @@ Here are some of the projects I've done on my journey so far:
 - Image Processor (Java)
 - Count cells in an image (MATLAB)
 - ALU for a calculator (Verilog)
-- Password generator
+- Password generator (Python)
 
 🕹️ Game recreations:
 - Tetris (Racket)
 - Mastermind (Java)
 - Flood-It (Java)
 - Freecell (Java)
+
+👩‍💻 Data Science:
+- Choropleth map of COVID-19 cases by country over time
+- US map of earthquakes with size and color denoting magnitude
 
 😎 Other cool stuff:
 - Password cracking
