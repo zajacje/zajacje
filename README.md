@@ -7,6 +7,7 @@ Here are some of the projects I've done on my journey so far:
 - Image Processor (Java)
 - Count cells in an image (MATLAB)
 - ALU for a calculator (Verilog)
+- Password generator
 
 🕹️ Game recreations:
 - Tetris (Racket)
@@ -16,7 +17,7 @@ Here are some of the projects I've done on my journey so far:
 
 😎 Other cool stuff:
 - Password cracking
-- SQL injections
+- SQL injection
 - Create an electrocardiogram using op-amps
 
 -------------------------------------------------------------
