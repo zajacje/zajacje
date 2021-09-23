@@ -9,15 +9,16 @@ Here are some of the projects I've done on my journey so far:
 - ALU for a calculator (Verilog)
 - Password generator (Python)
 
-🕹️ Game recreations:
-- Tetris (Racket)
-- Mastermind (Java)
-- Flood-It (Java)
+🕹️ Games:
+- Discord bot cooperative scavenger hunt (Python - discord.py)
 - Freecell (Java)
+- Flood-It (Java)
+- Mastermind (Java)
+- Tetris (Racket)
 
 👩‍💻 Data Science:
-- Choropleth map of COVID-19 cases by country over time
-- US map of earthquakes with size and color denoting magnitude
+- Choropleth map of COVID-19 cases by country over time (Python - GeoPandas)
+- US map of earthquakes with size and color denoting magnitude (Python)
 
 😎 Other cool stuff:
 - Password cracking
