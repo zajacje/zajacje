@@ -4,6 +4,9 @@ Here are some of the projects I've done on my journey so far:
 
 -------------------------------------------------------------
 💻 Programs:
+- Linux mini-shell (C)
+- FTPS client (Python)
+- BGP router (Python)
 - Image Processor (Java)
 - Count cells in an image (MATLAB)
 - ALU for a calculator (Verilog)
